@@ -1,0 +1,88 @@
+#paragraph{
+    font-style: italic;
+    color: rgb(230, 28, 95) ;
+    margin-right: 2%;
+    
+}
+
+#container{
+    border: none;
+    background-color: white;
+    padding:5%;
+    margin:5%;
+    height: 500vh;
+    width:150lvh;
+    
+    
+
+
+    
+}
+body{
+    background-color: rgb(238, 204, 215);
+    font-style: oblique;
+}
+p3,p2{
+    font-size: small;
+}
+button{
+    background-color: blue;
+    -webkit-text-fill-color: antiquewhite;
+    
+}
+
+
+
+    
+ .earphones{
+    margin-right: 260%;
+    margin-left: 40%;
+    padding:left 40%;
+    width
+ } 
+
+ .column{
+    float:left;
+    width:33.33%;
+ }
+
+
+.left,.right{
+    width : 25%;
+}
+.middle{
+    width : 30%;
+}
+.columns{
+    display :flex;
+    align-items: center;
+    float:center;
+    width:50.2%;
+    height: 10vh;
+    column-gap: 20%;
+}
+.left,.right{
+    width : 50.3%;
+    float:center;
+}
+.middle{
+    width :30%;
+}
+.category{
+    display: flex;
+    width:50.2%;
+    column-gap: 20%;
+    
+}
+.cat{
+    display : flex;
+    column-gap: 10%;
+}
+
+
+
+
+
+
+
+    
